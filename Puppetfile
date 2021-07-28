@@ -34,8 +34,8 @@ forge 'https://forge.puppet.com'
   # Custom Modules
   mod 'profiles',
     :git => 'https://github.com/cvquesty/vagrant_profiles.git',
-    :ref => 'development'
+    :ref => 'production'
 
   mod 'roles',
     :git => 'https://githu.com/cvquesty/vagrant_roles.git',
-    :ref => 'development'
+    :ref => 'production'
