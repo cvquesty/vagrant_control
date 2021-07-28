@@ -34,5 +34,5 @@ forge 'https://forge.puppet.com'
     :ref => 'production'
 
   mod 'roles',
-    :git => 'https://githu.com/cvquesty/vagrant_roles.git',
+    :git => 'https://github.com/cvquesty/vagrant_roles.git',
     :ref => 'production'
