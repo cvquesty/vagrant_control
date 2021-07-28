@@ -25,7 +25,6 @@ forge 'https://forge.puppet.com'
   mod 'saz/limits', '3.0.4'
   mod 'saz/resolv_conf', '5.0.0'
   mod 'saz/sudo', '6.0.0'
-  mod 'stahnma/epel', '3.1.0'
 
   # Custom Modules
   mod 'profiles',
